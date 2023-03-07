@@ -1,4 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m "$@"
+echo -e "Type your commit message here: \c"
+read commit
+git commit -m "$commit"
 git push
