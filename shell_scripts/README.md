@@ -1,4 +1,5 @@
 **a.sh** - Useful for running adding, commiting to git and pushing to github on one line of code instead of three
+
 **o.sh** - Useful for adding selected file(s)(upto 3files at once) with the commit message and then push to github repository.
 How to use: 
 Make a.sh executable using chmod +x a.sh
