@@ -1,4 +1,4 @@
-**a.sh** - Useful for running adding, commiting to git and pushing to github on one line of code instead of three
+**a.sh** - Useful for running adding, commiting to git and pushing to github on one line of code instead of three.
 
 **o.sh** - Useful for adding selected file(s)(1 to 3 files at once) with the commit message and then push to github repository.
 
@@ -13,4 +13,3 @@ Type in the command ./a.sh '<your commit message> and return.
 **input.sh** - takes input for three args and then prints them in a sentence.
 
 **ifelse.sh** - takes two arguments. If both arguments match, print "Yay, they match!", if they don’t, then print "Boo, they don't match :(".
-
